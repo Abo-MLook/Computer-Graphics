@@ -12,7 +12,7 @@ void display() {
 
     glColor3f(0, 1, 0);
     glVertex2f(30, 120);
-
+     //asdas
     glColor3f(0, 0, 1);
     glVertex2f(120, 120);
 
