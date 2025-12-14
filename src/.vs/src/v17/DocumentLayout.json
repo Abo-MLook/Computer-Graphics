@@ -3,15 +3,48 @@
   "WorkspaceRootPath": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|solutionrelative:src\\lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|solutionrelative:src\\lab10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|solutionrelative:src\\lab19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|solutionrelative:src\\lab18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\train.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|solutionrelative:src\\train.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|solutionrelative:src\\lab6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|solutionrelative:src\\lab7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|solutionrelative:src\\lab5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|solutionrelative:src\\lab4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|solutionrelative:src\\lab3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|solutionrelative:src\\lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppClean.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0C25749-6889-483C-B94A-E86802EBFEEA}|src\\src.vcxproj|solutionrelative:src\\lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,42 +54,145 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Microsoft.CppClean.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppClean.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppClean.targets",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAMwEwAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-09-25T21:05:40.27Z"
+              "DocumentIndex": 0,
+              "Title": "lab10.cpp",
+              "DocumentMoniker": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab10.cpp",
+              "RelativeDocumentMoniker": "src\\lab10.cpp",
+              "ToolTip": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab10.cpp",
+              "RelativeToolTip": "src\\lab10.cpp",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAuwGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-20T13:16:07.679Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "lab19.cpp",
+              "DocumentMoniker": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab19.cpp",
+              "RelativeDocumentMoniker": "src\\lab19.cpp",
+              "ToolTip": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab19.cpp",
+              "RelativeToolTip": "src\\lab19.cpp",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAHIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-20T13:15:54.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab18.cpp",
+              "DocumentMoniker": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab18.cpp",
+              "RelativeDocumentMoniker": "src\\lab18.cpp",
+              "ToolTip": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab18.cpp",
+              "RelativeToolTip": "src\\lab18.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T17:22:53.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lab7.cpp",
+              "DocumentMoniker": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab7.cpp",
+              "RelativeDocumentMoniker": "src\\lab7.cpp",
+              "ToolTip": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab7.cpp",
+              "RelativeToolTip": "src\\lab7.cpp",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAF4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-07T22:10:06.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lab6.cpp",
+              "DocumentMoniker": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab6.cpp",
+              "RelativeDocumentMoniker": "src\\lab6.cpp",
+              "ToolTip": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab6.cpp",
+              "RelativeToolTip": "src\\lab6.cpp",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv14AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T15:19:52.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lab5.cpp",
+              "DocumentMoniker": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab5.cpp",
+              "RelativeDocumentMoniker": "src\\lab5.cpp",
+              "ToolTip": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab5.cpp",
+              "RelativeToolTip": "src\\lab5.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T15:13:23.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lab4.cpp",
+              "DocumentMoniker": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab4.cpp",
+              "RelativeDocumentMoniker": "src\\lab4.cpp",
+              "ToolTip": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab4.cpp",
+              "RelativeToolTip": "src\\lab4.cpp",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T15:00:06.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "lab1.cpp",
               "DocumentMoniker": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab1.cpp",
               "RelativeDocumentMoniker": "src\\lab1.cpp",
               "ToolTip": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab1.cpp",
               "RelativeToolTip": "src\\lab1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-25T20:12:35.556Z"
+              "WhenOpened": "2025-11-04T13:46:25.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "train.cpp",
+              "DocumentMoniker": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\train.cpp",
+              "RelativeDocumentMoniker": "src\\train.cpp",
+              "ToolTip": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\train.cpp",
+              "RelativeToolTip": "src\\train.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T06:11:05.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "lab3.cpp",
+              "DocumentMoniker": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab3.cpp",
+              "RelativeDocumentMoniker": "src\\lab3.cpp",
+              "ToolTip": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab3.cpp",
+              "RelativeToolTip": "src\\lab3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T06:10:15.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "lab2.cpp",
               "DocumentMoniker": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab2.cpp",
               "RelativeDocumentMoniker": "src\\lab2.cpp",
               "ToolTip": "E:\\work\\AI\\Python\\Python traing\\Computer Graphics\\src\\src\\lab2.cpp",
               "RelativeToolTip": "src\\lab2.cpp",
-              "ViewState": "AgIAABcAAAAAAAAAAAAUwCUAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-25T20:05:41.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T06:10:13.712Z"
             }
           ]
         }

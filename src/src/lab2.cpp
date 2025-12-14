@@ -1,4 +1,4 @@
-#include <GL/glut.h>
+/*#include <GL/glut.h>
 
 void display() {
     glClearColor(0.0f, 0.0f, 0.0f, 1.0f);
@@ -47,3 +47,4 @@ int main(int argc, char** argv) {
     glutMainLoop();
     return 0;
 }
+*/
